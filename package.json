@@ -1,0 +1,27 @@
+{
+  "name": "sarcastify",
+  "version": "1.0.0",
+  "description": "A module that sarcastifies strings. Only applies to the standard english characters in the string.",
+  "main": "./src/sarcastify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlreadyAsleep/sarcastify-js.git"
+  },
+  "keywords": [
+    "string",
+    "string-manipulation",
+    "sarcastic",
+    "sarcastify",
+    "sarcasm",
+    "string-converter"
+  ],
+  "author": "Ben Heil (ben.heil.dev@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlreadyAsleep/sarcastify-js/issues"
+  },
+  "homepage": "https://github.com/AlreadyAsleep/sarcastify-js#readme"
+}

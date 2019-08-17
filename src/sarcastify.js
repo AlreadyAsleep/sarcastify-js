@@ -1,4 +1,4 @@
-export function sarcastify(str){
+function sarcastify(str){
     let chars = [...str];
     let pattern = /^[A-Za-z]$/;
     for(var i in chars){
@@ -8,3 +8,5 @@ export function sarcastify(str){
     }
     return chars.join('');
 }
+
+exports.sarcastify = sarcastify;
