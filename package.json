@@ -1,6 +1,6 @@
 {
   "name": "sarcastify",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A module that sarcastifies strings. Only applies to the standard english characters in the string.",
   "main": "./src/sarcastify.js",
   "scripts": {
