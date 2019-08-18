@@ -9,4 +9,4 @@ function sarcastify(str){
     return chars.join('');
 }
 
-exports = sarcastify;
+module.exports = sarcastify;
